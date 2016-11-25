@@ -1,0 +1,76 @@
+﻿Build started 11/24/2016 5:13:47 PM.
+     1>Project "E:\Users\Tinku\documents\visual studio 2013\Projects\Cookie Dungeon\Cookie Dungeon\Cookie Dungeon.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt character.cpp drawEngine.cpp enemy.cpp fireball.cpp game.cpp level.cpp main.cpp sprite.cpp verticalUntouchable.cpp
+         verticalUntouchable.cpp
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\verticaluntouchable.cpp(21): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\verticaluntouchable.cpp(22): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         sprite.cpp
+         main.cpp
+         level.cpp
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(45): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(133) : see declaration of 'kbhit'
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(47): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(78): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(88): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(98): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(153): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(165): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(177): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(189): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(203): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(217): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(229): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(375): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(391): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(407): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(424): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(440): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(456): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(473): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(489): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(575): warning C4309: 'argument' : truncation of constant value
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(584): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(664): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(680): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(696): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(734): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(871): warning C4309: 'argument' : truncation of constant value
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(1041): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(1057): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(1073): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(1090): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(1169): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(1185): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(1201): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(1218): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(1270): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\level.cpp(1449): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         game.cpp
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\game.cpp(17): warning C4309: 'argument' : truncation of constant value
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\game.cpp(64): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(133) : see declaration of 'kbhit'
+     1>e:\users\tinku\documents\visual studio 2013\projects\cookie dungeon\cookie dungeon\game.cpp(66): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+         fireball.cpp
+         enemy.cpp
+         drawEngine.cpp
+         character.cpp
+         Generating Code...
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Users\Tinku\documents\visual studio 2013\Projects\Cookie Dungeon\Debug\Cookie Dungeon.exe" /INCREMENTAL /NOLOGO winmm.lib kernel32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Users\Tinku\documents\visual studio 2013\Projects\Cookie Dungeon\Debug\Cookie Dungeon.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Users\Tinku\documents\visual studio 2013\Projects\Cookie Dungeon\Debug\Cookie Dungeon.lib" /MACHINE:X86 Debug\character.obj
+         Debug\drawEngine.obj
+         Debug\enemy.obj
+         Debug\fireball.obj
+         Debug\game.obj
+         Debug\level.obj
+         Debug\main.obj
+         Debug\sprite.obj
+         Debug\verticalUntouchable.obj
+         Cookie Dungeon.vcxproj -> E:\Users\Tinku\documents\visual studio 2013\Projects\Cookie Dungeon\Debug\Cookie Dungeon.exe
+     1>Done Building Project "E:\Users\Tinku\documents\visual studio 2013\Projects\Cookie Dungeon\Cookie Dungeon\Cookie Dungeon.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.74
